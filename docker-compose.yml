@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  mkdocs-recipe:
+    container_name: mkdocs-recipe
+    image: polinux/mkdocs:1.1.2
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      LIVE_RELOAD_SUPPORT: 'true'
+      ADD_MODULES: 'fontawesome-markdown mkdocs-git-revision-date-localized-plugin mkdocs-material mkdocs-gitbook'
+      FAST_MODE: 'true'
+      DOCS_DIRECTORY: '/docs'
+      GIT_REPO: 'git@github.com/eujoy/openrecipes'
+      UPDATE_INTERVAL: 15
+      AUTO_UPDATE: 'true'
+    volumes:
+      - ${PWD}:/docs

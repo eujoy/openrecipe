@@ -2,7 +2,7 @@
 
 In here we will keep an open-source list of recipes alongside their details.
 
-## Recipes to add :
+## Recipes to add
 
 - Small triangle pies with smashed meat
 - Pasta with beer sauce
@@ -11,3 +11,6 @@ In here we will keep an open-source list of recipes alongside their details.
 - Smashed potatoes
 - Chicken breast with peppers
 
+## Useful links
+
+- Yaml validator tool : https://github.com/23andMe/Yamale

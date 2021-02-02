@@ -1,0 +1,202 @@
+recipe:
+  summary:
+    forPersons: 2
+    pieces: 0
+    difficulty: 8
+    executionTime: 20
+    bakingTime: 20
+  details:
+    - lang: "el"
+      title: "Αυθεντική καρμποναρα με σπαγγέτι"
+      recipeParts:
+        - summary: "Βράσιμο μακαρονιών"
+          executionTime: 10
+          bakingTime: 10
+          ingredients:
+            - name: "Σπαγγέττι (κανονικά ή ολικής)"
+              quantity: 350
+              metric: "γρ"
+            - name: "Νερό"
+              quantity: 1.5
+              metric: "λ"
+            - name: "Αλάτι"
+              quantity: 5
+              metric: "γρ"
+          executionSteps:
+            - "Βράζουμε το νερό σε μία κατσαρόλα και ρίχνουμε μέσα το αλάτι."
+            - "Όταν το νερο αρχίσει να βράζει, ρίχνουμε μέσα τα μακαρόνια."
+            - "Θα χρειαστούν περίπου 8-10 λεπτά (ανάλογα τα μακαρόνια) ώστε να έχουν το ιδανικό βράσιμο."
+        - summary: "Σάλτσα καρμπονάρας"
+          executionTime: 10
+          bakingTime: 15
+          ingredients:
+            - name: "Μπέικον"
+              quantity: 5
+              metric: "κομμάτια"
+            - name: "Μανιτάρια (μεσσαία)"
+              quantity: 5
+              metric: "φέτες"
+            - name: "Βούτηρο"
+              quantity: 60
+              metric: "γρ"
+            - name: "Αλάτι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Φρεσκοτριμμένο πιπέρι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Λευκό κρασί"
+              quantity: 50
+              metric: "μλ"
+          executionSteps:
+            - "Κόβουμε το μπέικον σε σχετικά μεγάλα κομμάτια."
+            - "Κόβουμε το μανιτάρια σε μεγάλα κομμάτια για να τα χρησιμοποιήσουμε αργότερα."
+            - "Σε ένα ζεστό τηγάνι ρίχνουμε τα 60 γραμμάρια βούτηρο ώστε να λιώσει."
+            - "Ρίχνουμε το μπέικον και τα ανακατεύουμε ώστε να βγάλει το λίπος του και να πάρει χρώμα."
+            - "Αφού αρχίσει να παίρνει χρώμα, ρίχνουμε στο τηγάνι τα μανιτάρια και ανακατεύουμε."
+            - "Αφήνουμε για λίγη ώρα να πάρει κι άλλο χρώμα το μπέικον και παράλληλα να βγάλουν τα αρώματα τους τα μανιτάρια."
+            - "Μόλις δούμε ότι έχουν πάρει ένα ωραίο χρώμα, σβήνουμε με το κρασί."
+            - "Ανακατεύουμε μέχρι να εξατμιστεί το κρασί."
+            - "Στην συνέχεια σβήνουμε το μάτι και αφήνουμε το τηγάνι πάνω."
+        - summary: "Μείγμα αυγού"
+          executionTime: 2
+          ingredients:
+            - name: "Αυγά"
+              quantity: 2
+              metric: ""
+            - name: "Κρόκος αυγού"
+              quantity: 1
+              metric: ""
+            - name: "Πεκορίνο"
+              quantity: 100
+              metric: "γρ"
+          executionSteps:
+            - "Σε ένα μπωλ ρίχουμε τα αυγά και τον κρόκο."
+            - "Αφού τρίψουμε το πεκορίνο, το ρίχνουμε και αυτό μέσα στα αυγά."
+            - "Χτυπάμε τα αυγά ώστε να ομογενοποιηθούν."
+        - summary: "Συνδυασμός όλων"
+          ingredients:
+            - name: "Βούτηρο"
+              quantity: 40
+              metric: "γρ"
+          executionTime: 5
+          executionSteps:
+            - "Το τηγάνι παραμένει στο κλειστό μάτι ή το αφαιρούμε απο την κουζίνα και συνεχίζουμε."
+            - "Με μία πιάστρα, ρίχνουμε τα μακαρόνια μέσα στο τηγάνι."
+            - "Ρίχνουμε το βούτηρο και ανατεύουμε έτσι ώστε να λιώσει."
+            - "Ρίχνουμε 2 γεμάτες κουτάλες απο το νερό που έβραζαν τα μακαρόνια μέσα στο τηγάνι και συνεχίζουμε να ανακατεύουμε."
+            - "Όταν έχουν ανακατευτεί τα μακαρόνια με το μπέικον και τα μανιτάρια στο τηγάνι, ρίχνουμε σιγά σιγά το μείγμα του αυγού μέσα στο τηγάνι και παράλληλα ανακατεύουμε."
+            - "Συνεχίζουμε το ανακάτεμα μέχρι να δούμε ότι το μείγμα έχει ομογενοποιηθεί και έχει δημιουργηθεί μία κρεμώδη σάλτσα."
+        - summary: "Σερβίρισμα"
+          executionTime: 5
+          ingredients:
+            - name: "Παρμεζάνα"
+              quantity: 100
+              metric: "γρ"
+            - name: "Πεκορίνα"
+              quantity: 50
+              metric: "γρ"
+            - name: "Φρεσκοτριμμένο πιπέρι"
+              quantity: 5
+              metric: "γρ"
+          executionSteps:
+            - "Τρίβουμε την παρμεζάνα και το πεκορίνο και τα κρατάμε σε ένα μπωλ."
+            - "Με την πιάστρα, τοποθετούμε τα μακαρόνια στο πιάτο και ρίχνουμε το τριμμένο τυρί."
+            - "Τέλος, ρίχνουμε το πιπέρι από πάνω έτσι ώστε να δώσει την τελική γεύση."
+    - lang: "en"
+      title: "Authentic spaghetti carbonara"
+      recipeParts:
+        - summary: "Boiling the spaghetti"
+          executionTime: 10
+          bakingTime: 10
+          ingredients:
+            - name: "Spaghetti (normal or whole)"
+              quantity: 350
+              metric: "gr"
+            - name: "Water"
+              quantity: 1.5
+              metric: "l"
+            - name: "Salt"
+              quantity: 5
+              metric: "gr"
+          executionSteps:
+            - "We boil the water and include the salt in there."
+            - "Once the water starts to boil, we drop the spaghetti in there to be cooked."
+            - "It will take about 8-10 minutes to cook the spaghetti, to be on the best state."
+        - summary: "Carbonara sauce"
+          executionTime: 10
+          bakingTime: 15
+          ingredients:
+            - name: "Bacon"
+              quantity: 5
+              metric: "slices"
+            - name: "Mashrooms (medium sized)"
+              quantity: 5
+              metric: "pieces"
+            - name: "Butter"
+              quantity: 60
+              metric: "gr"
+            - name: "Salt"
+              quantity: 5
+              metric: "gr"
+            - name: "Freshly ground pepper"
+              quantity: 5
+              metric: "gr"
+            - name: "White wine"
+              quantity: 50
+              metric: "ml"
+          executionSteps:
+            - "We cut the bacon in seemingly big pieces."
+            - "We cut the mushrooms in big pieces and keep them on the side for future use."
+            - "In a hot pan, we drop the butter to melt."
+            - "We drop the sliced bacon and we blend till the bacon's fat gets melt."
+            - "Once the bacon starts getting a nice baked color, we drop the sliced mushrooms in there and continue to blend."
+            - "We leave them in the pan for a while for the bacon to get a bit more color and the mushrooms to extract their flavors."
+            - "Once done, we include the white wine in there."
+            - "We continue to blend until the wine gets evaporated."
+            - "We turn off the kitchen and leave the pan in there."
+        - summary: "Egg mixture"
+          executionTime: 2
+          ingredients:
+            - name: "Eggs"
+              quantity: 2
+              metric: ""
+            - name: "Yolk"
+              quantity: 1
+              metric: ""
+            - name: "Pecorino Romano"
+              quantity: 100
+              metric: "gr"
+          executionSteps:
+            - "In a bowl we drop the eggs as well as the yolka."
+            - "We trim the pecorino romano and drop it in the eggs."
+            - "We blend the eggs with the pecorino so that they become one."
+        - summary: "Combining"
+          ingredients:
+            - name: "Butter"
+              quantity: 40
+              metric: "gr"
+          executionTime: 5
+          executionSteps:
+            - "We leave the pan in the turned off kitchen or move it somewhere else to get rest."
+            - "We grab and put the spaghetti in the pan."
+            - "We drop the butter in the pan and mix everything in there until the butter melts."
+            - "We drop 2 large scoops of the water where the spaghetti where being cooked in the pan and continue to blend."
+            - "Once the spaghetti are mixed with the bacon and mushrooms, we include the egg mixture slowly in the pan and continue to blend."
+            - "We continue to blend until the everything has become one with a nice creamy sauce."
+        - summary: "Presentation"
+          executionTime: 5
+          ingredients:
+            - name: "Parmesan"
+              quantity: 100
+              metric: "gr"
+            - name: "Pecorino Romano"
+              quantity: 50
+              metric: "gr"
+            - name: "Freshly ground pepper"
+              quantity: 5
+              metric: "gr"
+          executionSteps:
+            - "We trim the parmezan and the pecorino romano and keep it in a small bowl."
+            - "We grab and put some pasta in the plate and then drop some of the trimmed cheese on top."
+            - "Finally, we ground some pepper on top to give the spicy end flavor."

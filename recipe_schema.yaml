@@ -1,0 +1,29 @@
+recipe:
+  summary: include('summary')
+  details: list(include('details'))
+
+---
+
+summary:
+  forPersons: int(min=0, max=20)
+  pieces: int(min=0, max=100)
+  difficulty: int(min=1, max=10)
+  executionTime: int()
+  bakingTime: int()
+
+details:
+  lang: str()
+  title: str()
+  recipeParts: list(include('recipePart'))
+
+recipePart:
+  summary: str()
+  executionTime: int()
+  bakingTime: int(required=False)
+  ingredients: list(include('ingredient'), required=False)
+  executionSteps: list(str())
+
+ingredient:
+  name: str()
+  quantity: num()
+  metric: enum('gr', 'γρ', 'kg', 'κ', 'ml', 'μλ', 'l', 'λ', 'pieces', 'slices', 'sticks', 'κομμάτια', 'φέτες', 'στικς', '')

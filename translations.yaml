@@ -1,0 +1,61 @@
+# Greek translations
+el:
+  labels:
+    generalDetailsTitle: "Γενικά Στοιχεία"
+    recipePartsTitle:    "Στάδια Συνταγής"
+    forPersons:          "Μερίδες"
+    pieces:              "Κομμάτια"
+    difficulty:          "Δυσκολία"
+    executionTime:       "Χρόνος Εκτέλεσης"
+    bakingTime:          "Χρόνος Ψησίματος"
+    minutes:             "λεπτά"
+    labelsTextAlign:     ":-"
+    textAlign:           ":-"
+  toc:
+    order: 1
+    language: "Ελληνικά"
+    categories:
+      MincedMeat: "Κιμάς"
+      Pasta:      "Μακαρόνια"
+      Sweets:     "Γλυκά"
+    recipes:
+      # Minched meat
+      MinchedMeatballs: "Κεφτεδάκια"
+
+      # Pasta
+      ItalianSpaghettiCarbonara: "Ιταλική αυθεντική καρμπονάρα"
+
+      # Sweets
+      Cookies: "Κουλουράκια"
+      EasyBiscuits: "Εύκολα μπισκότα"
+
+# English translations
+en:
+  labels:
+    generalDetailsTitle: "General Information"
+    recipePartsTitle:    "Recipe Steps"
+    forPersons:          "Portions"
+    pieces:              "Pieces"
+    difficulty:          "Difficulty"
+    executionTime:       "Execution Time"
+    bakingTime:          "Baking Time"
+    minutes:             "Minutes"
+    labelsTextAlign:     ":-"
+    textAlign:           ":-"
+  toc:
+    order: 2
+    language: "English"
+    categories:
+      MincedMeat: "Minced meat"
+      Pasta:      "Pasta"
+      Sweets:     "Sweets"
+    recipes:
+      # Minched meat
+      MinchedMeatballs: "Minched meatballs"
+      
+      # Pasta
+      ItalianSpaghettiCarbonara: "Italian spaghetti carbonara"
+
+      # Sweets
+      Cookies: "Cookies"
+      EasyBiscuits: "Easy biscuits"
