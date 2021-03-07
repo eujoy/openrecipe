@@ -1,0 +1,96 @@
+recipe:
+  summary:
+    forPersons: 4
+    pieces: 16
+    difficulty: 2
+    executionTime: 15
+    bakingTime: 20
+  details:
+    - lang: "el"
+      title: "Ζύμη πίτσας χωρίς μαγιά"
+      recipeParts:
+        - summary: "Προετοιμασία μείγματος"
+          executionTime: 15
+          ingredients:
+            - name: "Αυγό"
+              quantity: 3
+              metric: ""
+            - name: "Αλεύρι"
+              quantity: 600
+              metric: "gr"
+            - name: "Ξύδι"
+              quantity: 5
+              metric: "μλ"
+            - name: "Αλάτι"
+              quantity: 10
+              metric: "γρ"
+            - name: "Πιπέρι"
+              quantity: 10
+              metric: "γρ"
+            - name: "Ζάχαρη"
+              quantity: 5
+              metric: "γρ"
+            - name: "Μπέικιν Πάουντερ"
+              quantity: 10
+              metric: "gr"
+            - name: "Ελαιόλαδο"
+              quantity: 25
+              metric: "μλ"
+            - name: "Γάλα"
+              quantity: 50
+              metric: "μλ"
+          executionSteps:
+            - "Σε ένα μπωλ ρίχνουμε το αλεύρι, το μπέικιν πάουντερ, το αλάτι, το πιπέρι και την ζάχαρη."
+            - "Ανακατεύουμε για λίγα δευτερόλεπτα έτσι ώστε να αναμειχθούν όλα τα υλικά μεταξύ τους."
+            - "Σε ένα άλλο μπώλ ρίχνουμε τα αυγά, το ξύδι, το γάλα και το ελαιόλαδο και τα ανακατεύουμε."
+            - "Ρίχνουμε ταυγρά μέσα στα στερεά στοιχεία και τα ανακεύουμε όλα μαζι."
+            - "Όταν αρχίσει να σφίγγει το μείγμα, το ανακατεύουμε με τα χέρια ώστε να δημιουργηθεί μια μπάλα."
+            - "Αφήνουμε την ζύμη να 'ξεκουραστεί' για περίπου 20-30 λεπτά προτού την χρησιμοποιήσουμε για να φτιάξουμε την πίτσα."
+        - summary: "Ψήσιμο"
+          executionTime: 20
+          executionSteps:
+            - "Για το ψήσιμο, το απλώνουμε σε ένα ταψί και χρειάζεται περίπου 15 με 20 λεπτά στον φούρνο στους 200 βαθμούς στον αέρα."
+    - lang: "en"
+      title: "Pizza dough without yeast"
+      recipeParts:
+        - summary: "Preparation of the mixture"
+          executionTime: 5
+          ingredients:
+            - name: "Eggσ"
+              quantity: 3
+              metric: ""
+            - name: "Flour"
+              quantity: 600
+              metric: "gr"
+            - name: "Vinegar"
+              quantity: 5
+              metric: "μλ"
+            - name: "Salt"
+              quantity: 10
+              metric: "γρ"
+            - name: "Pepper"
+              quantity: 10
+              metric: "γρ"
+            - name: "Sugar"
+              quantity: 5
+              metric: "γρ"
+            - name: "Baking Powder"
+              quantity: 10
+              metric: "gr"
+            - name: "Olive oil"
+              quantity: 25
+              metric: "μλ"
+            - name: "Milk"
+              quantity: 50
+              metric: "μλ"
+          executionSteps:
+            - "In a bowl we mix the flour, bakin powder, salt, pepper and suggar."
+            - "We blend them for a few seconds so that all of the ingredients get mixed together."
+            - "In another bowl, we blend the eggs, vinegar, milk and olive oil and we mix them."
+            - "We pour the liqued mixture to the solids and we blend them."
+            - "Once the mixture starts to tighten, we continue mixing them with the hands so that we can convert it to a ball."
+            - "We leave it to 'rest' for about 20-30 minutes before using it to prepare a pizza."
+        - summary: "Ψήσιμο"
+          executionTime: 20
+          executionSteps:
+            - "For the baking, we spread the mixture in a pan and it needs about 15 to 20 minutes in the oven to 200 degrees on air."

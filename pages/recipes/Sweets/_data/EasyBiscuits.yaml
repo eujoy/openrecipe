@@ -24,7 +24,7 @@ recipe:
             - name: "Βανίλια"
               quantity: 10
               metric: "γρ"
-            - name: "Αλεύρι"
+            - name: "Αλεύρι ή αλευρι βρώμης"
               quantity: 220
               metric: "γρ"
             - name: "Μπέικιν πάουντερ"
@@ -37,7 +37,7 @@ recipe:
         - summary: "Ψήσιμο"
           executionTime: 15
           executionSteps:
-            - "Προθερμαίνουμε τον φούρνο στους 220 βαθμούς."
+            - "Προθερμαίνουμε τον φούρνο στους 200 βαθμούς."
             - "Πλάθουμε σε μικρές μπάλες και τα πατάμε στην μέση ώστε να πάρουν ένα σχήμα σαν μπισκότο."
             - "Τα τοποθετούμε σε ταψί με λαδόκολλα."
             - "Πασπαλίζουμε από πάνω με κρυσταλλική ζάχαρη."
@@ -60,7 +60,7 @@ recipe:
             - name: "Vanilla"
               quantity: 10
               metric: "gr"
-            - name: "Flour"
+            - name: "Flour or oat flour"
               quantity: 220
               metric: "gr"
             - name: "Baking Powder"
