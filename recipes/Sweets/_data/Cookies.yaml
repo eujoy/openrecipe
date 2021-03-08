@@ -1,0 +1,96 @@
+recipe:
+  summary:
+    forPersons: 0
+    pieces: 60
+    difficulty: 5
+    executionTime: 40
+    bakingTime: 20
+  details:
+    - lang: "el"
+      title: "Κουλουράκια"
+      recipeParts:
+        - summary: "Προετοιμασία μείγματος"
+          executionTime: 20
+          ingredients:
+            - name: "Αυγά"
+              quantity: 5
+              metric: ""
+            - name: "Φυτίνη / Βούτηρο"
+              quantity: 400
+              metric: "γρ"
+            - name: "Γάλα"
+              quantity: 200
+              metric: "μλ"
+            - name: "Ζάχαρη"
+              quantity: 400
+              metric: "γρ"
+            - name: "Βανίλια"
+              quantity: 20
+              metric: "γρ"
+            - name: "Αμμωνία"
+              quantity: 20
+              metric: "γρ"
+            - name: "Αλεύρι μαλακό"
+              quantity: 1.5
+              metric: "κ"
+            - name: "Αλάτι"
+              quantity: 5
+              metric: "γρ"
+          executionSteps:
+            - "Χτυπάμε τη φυτίνη (ή το βούτηρο) με τη ζάχαρη στο μίξερ μέχρι το μείγμα να γίνει άσπρο και αφράτο."
+            - "Ρίχνουμε ένα-ένα τα αυγά."
+            - "Σε ένα μπωλ ανακατεύουμε τη βανίλια και το αλάτι με το αλεύρι."
+            - "Στο χλιαρό γάλα λιώνουμε την αμμωνία και το ρίχνουμε στο μείγμα με το βούτηρο και την ζάχαρη."
+            - "Προσθέτουμε μείγμα με το αλεύρι, τη βανίλια και το αλάτι μέσα στα υγρά στοιχεία."
+            - "Τα ανακατεύουμε όλα μαζί για να γίνει μια μαλακή ζύμη."
+        - summary: "Ψήσιμο"
+          executionTime: 20
+          executionSteps:
+            - "Προθερμαίνουμε τον φούρνο στους 170 βαθμούς."
+            - "Πλάθουμε τα κουλουράκια και τα βάζουμε σε λαδόκολλα."
+            - "Ψήνουμε για 15-20 λέπτα μέχρι να πάρουν ένα ωραίο χρώμα."
+            - "Όταν τα βγάλουμε πρέπει να είναι μαλακά, αλλά όταν κρυώσουν θα γίνουν αφράτα και τραγανά."
+    - lang: "en"
+      title: "Cookies"
+      recipeParts:
+        - summary: "Preparation of the mixture"
+          executionTime: 20
+          ingredients:
+            - name: "Eggs"
+              quantity: 5
+              metric: ""
+            - name: "Phytin / Butter"
+              quantity: 400
+              metric: "gr"
+            - name: "Milk"
+              quantity: 200
+              metric: "ml"
+            - name: "Sugar"
+              quantity: 400
+              metric: "gr"
+            - name: "Vanilla"
+              quantity: 20
+              metric: "gr"
+            - name: "Ammonia"
+              quantity: 20
+              metric: "gr"
+            - name: "Soft flour"
+              quantity: 1.5
+              metric: "kg"
+            - name: "Salt"
+              quantity: 5
+              metric: "gr"
+          executionSteps:
+            - "We mix the phytin (or the butter) with the suggar in the mixer until it becomes white and fluffy."
+            - "We include the eggs in there one by one."
+            - "In another bowl, we mix the vanilla and the salt with the soft flour."
+            - "In the lukewarm milk we add the ammonia and we pour it in the mixture of the phytin/butter and the sugar."
+            - "We drop the mixture of flour, vanilla and salt in the liquids."
+            - "We blend them all together so that we will have a soft dough."
+        - summary: "Baking"
+          executionTime: 20
+          executionSteps:
+            - "We preheat the oven to 170 degrees."
+            - "We shape the cookies and put them in oil paste."
+            - "We bake them for about 15-20 minutes until they get a nice colour."
+            - "When we take them out of the oven, they should be soft, but when they get cooler they will be fluffy and crunchy."

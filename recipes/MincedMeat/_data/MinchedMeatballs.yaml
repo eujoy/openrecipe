@@ -1,0 +1,179 @@
+recipe:
+  summary:
+    # TIP : we can prepare them and put them in the refridgerator for future use.
+    forPersons: 0
+    pieces: 20
+    difficulty: 7
+    executionTime: 40
+    bakingTime: 30
+  details:
+    - lang: "el"
+      title: "Κεφτεδάκια με μυρωδικά"
+      recipeParts:
+        - summary: "Προετοιμασία κρεμμυδιών"
+          executionTime: 5
+          bakingTime: 10
+          ingredients:
+            - name: "Ελαιόλαδο"
+              quantity: 30
+              metric: "μλ"
+            - name: "Κρεμμύδι (μέγαλο)"
+              quantity: 1
+              metric: ""
+            - name: "Αλάτι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Πιπέρι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Ζάχαρη"
+              quantity: 5
+              metric: "γρ"
+          executionSteps:
+            - "Ψιλοκόβουμε το κρεμμύδι σε μικρά κομμάτια."
+            - "Στη συνέχεια, τοποθετούμε ένα τηγάνι στην φωτιιά και το ζεσταίνουμε."
+            - "Μόλις το τηγάνι είναι ζεστό, ρίχνουμε το λάδι και περιμένουμε λίγα δευτερόλεπτα να ζεσταθεί το λάδι."
+            - "Μόλις ζεσταθεί, ρίχνουμε μέσα το ψιλοκομμένο κρεμμύδι και το τσιγαρίζουμε."
+            - "Ρίχνουμε το αλάτι, το πιπέρι και την ζάχαρη και ανακατεύουμε ώστε να αναμειχθούν με τα κρεμμύδια."
+            - "Αφήμουμε για περίπου 5-7 λεπτά μέχρι τα κρεμμύδια να καραμελώσουν και να πάρουν ωραίο χρώμα."
+            - "Αφού πάρει ωραίο χρώμα, το αφαιρούμε απο την φωτιά και τα αφήνουμε στην άκρη να κρυώσουν."
+        - summary: "Μείγμα κιμά"
+          executionTime: 25
+          ingredients:
+            - name: "Μοσχαρίσιος κιμάς (ή συνδυασμος μοσχαρίσιου/χοιρινού σε αναλογία 70%/30%)"
+              quantity: 500
+              metric: "γρ"
+            - name: "Πιπερία (κόκκινη ή πράσινη) - (προαιρετικό)"
+              quantity: 0.5
+              metric: ""
+            - name: "Φρυγανιά τριμμένη"
+              quantity: 100
+              metric: "γρ"
+            - name: "Μαϊντανός"
+              quantity: 50
+              metric: "γρ"
+            - name: "Άνηθος"
+              quantity: 25
+              metric: "γρ"
+            - name: "Γάλα"
+              quantity: 50
+              metric: "μλ"
+            - name: "Ελαιόλαδο"
+              quantity: 40
+              metric: "μλ"
+            - name: "Αλάτι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Πιπέρι"
+              quantity: 5
+              metric: "γρ"
+            - name: "Αυγό"
+              quantity: 1
+              metric: ""
+            - name: "Φρέσκο κρεμμύδι (μικρά)"
+              quantity: 2
+              metric: ""
+            - name: "Τριμμένη παρμεζάνα"
+              quantity: 30
+              metric: "γρ"
+            - name: "Κανέλα"
+              quantity: 15
+              metric: "γρ"
+          executionSteps:
+            - "Σε ένα μεγάλο μπωλ, ρίχνουμε όλα τα υλικά (και το τσιγαρισμένο κρεμμύδι) εκτός απο το αυγό."
+            - "Αρχίζουμε και ανακατεύουμε το μείγμα ώστε να αρχίσει να ομογενοποιείται."
+            - "Μετα απο περίπου 1-2 λεπτά ανακάτεμα, και εφόσον δούμε ότι έχουν αρχίζει όλα τα στοιχεία να ενοποιούνται, ρίχνουμε και το αυγο μέσα στο μείγμα."
+            - "Συνεχίζουμε να ανακατεύμε μέχι να δούμε ότι το μείγμα έχει γίνει ένα (θα χρεαστεί περίπου 2-4 λεπτά)."
+            - "Αφήνουμε το μείγμα να ξεκκουραστεί για περίπου 5-10 λεπτά μέσα στο μπωλ, και το τυλίγουμε με μεμβράνη."
+        - summary: "Ψήσιμο"
+          executionTime: 5
+          bakingTime: 25
+          executionSteps:
+            - "Προθερμαίνουμε τον φούρνο στον αέρα στους 180 βαθμούς."
+            - "Κόβουμε κομμάτια περίπου 50 γραμμαρίων και τους δίνουμε μια μορφή σαν μπαλάκι."
+            - "Τα τοποθετούμε σε ένα ταψί με λαδόκολλα και τα βάζουμε στον φούρνο για περίπου 20-25 λεπτά."
+    - lang: "en"
+      title: "Minched meatballs"
+      recipeParts:
+        - summary: "Preparation of onions"
+          executionTime: 5
+          bakingTime: 10
+          ingredients:
+            - name: "Olive oil"
+              quantity: 30
+              metric: "ml"
+            - name: "Onion (large)"
+              quantity: 1
+              metric: ""
+            - name: "Salt"
+              quantity: 5
+              metric: "gr"
+            - name: "Pepper"
+              quantity: 5
+              metric: "gr"
+            - name: "Sugar"
+              quantity: 5
+              metric: "gr"
+          executionSteps:
+            - "We cut the onion in small pieces."
+            - "We place a pan in the kitchen to get hot."
+            - "Once it is hot, we pour the olive oil and live it for a few seconds to get the heat."
+            - "Once it is hot enough, we drop the sliced onion and blend it on the pan."
+            - "We drop the salt, the pepper and the sugar and mix everything in the pan so that they can blend with each other."
+            - "We leave them for about 5-7 minutes until the onions to get a caramelised and a nice colour."
+            - "Once done, we move the pan away and let the onions there to cool."
+        - summary: "Meatballs mixture"
+          executionTime: 25
+          ingredients:
+            - name: "Beef minched meat (or combination of beef/pork minched meat on the portion of 70%/30%)"
+              quantity: 500
+              metric: "gr"
+            - name: "Pepper (red or green) - (optional)"
+              quantity: 0.5
+              metric: ""
+            - name: "Βreadcrumbs"
+              quantity: 100
+              metric: "gr"
+            - name: "Parsley"
+              quantity: 50
+              metric: "gr"
+            - name: "Dill"
+              quantity: 25
+              metric: "gr"
+            - name: "Milk"
+              quantity: 50
+              metric: "ml"
+            - name: "Olive oil"
+              quantity: 40
+              metric: "ml"
+            - name: "Salt"
+              quantity: 5
+              metric: "gr"
+            - name: "Pepper"
+              quantity: 5
+              metric: "gr"
+            - name: "Egg"
+              quantity: 1
+              metric: ""
+            - name: "Fresh onion (small)"
+              quantity: 2
+              metric: ""
+            - name: "Grated parmesan"
+              quantity: 30
+              metric: "gr"
+            - name: "Cinnamon"
+              quantity: 5
+              metric: "gr"
+          executionSteps:
+            - "In a large bowl, we include all the ingredients (including the cooked onions) except the egg."
+            - "We work with the mixture so that it becomes one and everything gets mixed."
+            - "After about 1-2 minutes working with the mixture and it everything has blended in, we drop the egg in there."
+            - "We continue to blend the mixture so that it becomes one (it will need about 2-4 minutes)."
+            - "We leave the mixture on the side to rest for about 5-10 minutes in the bowl and we cover it with a wrapping film."
+        - summary: "Baking"
+          executionTime: 5
+          bakingTime: 25
+          executionSteps:
+            - "We preheat the oven on air on 180 degrees."
+            - "We take about 50 gramms from the mixture and work it so that it takes a form of a small ball."
+            - "We place them in an oven pan (on top of non-stick paper) and place them in the oven for about 20-25 minutes."

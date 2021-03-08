@@ -1,0 +1,80 @@
+recipe:
+  summary:
+    forPersons: 0
+    pieces: 20
+    difficulty: 2
+    executionTime: 10
+    bakingTime: 15
+  details:
+    - lang: "el"
+      title: "Εύκολα μπισκότα"
+      recipeParts:
+        - summary: "Προετοιμασία μείγματος"
+          executionTime: 5
+          ingredients:
+            - name: "Αυγό"
+              quantity: 1
+              metric: ""
+            - name: "Σπορέλαιο"
+              quantity: 120
+              metric: "μλ"
+            - name: "Ζάχαρη"
+              quantity: 100
+              metric: "γρ"
+            - name: "Βανίλια"
+              quantity: 10
+              metric: "γρ"
+            - name: "Αλεύρι ή αλευρι βρώμης"
+              quantity: 220
+              metric: "γρ"
+            - name: "Μπέικιν πάουντερ"
+              quantity: 10
+              metric: "γρ"
+          executionSteps:
+            - "Με ένα σύρμα ανακατεύουμε το αυγό, τη ζάχαρη και το σπορέλαιο."
+            - "Σε ένα μπωλ ανακατεύουμε το αλέυρι με την βανίλια και το μπέικιν πάουντερ."
+            - "Προσθέτουμε σιγά σιγά το μείγμα με το αλεύρι μέχρι να γίνει μια μαλάκια ζύμη."
+        - summary: "Ψήσιμο"
+          executionTime: 15
+          executionSteps:
+            - "Προθερμαίνουμε τον φούρνο στους 200 βαθμούς."
+            - "Πλάθουμε σε μικρές μπάλες και τα πατάμε στην μέση ώστε να πάρουν ένα σχήμα σαν μπισκότο."
+            - "Τα τοποθετούμε σε ταψί με λαδόκολλα."
+            - "Πασπαλίζουμε από πάνω με κρυσταλλική ζάχαρη."
+            - "Ψήνουμε για 12-15 λέπτα μέχρι να πάρουν ένα ωραίο χρώμα."
+    - lang: "en"
+      title: "Easy biscuits"
+      recipeParts:
+        - summary: "Preparation of the mixture"
+          executionTime: 5
+          ingredients:
+            - name: "Egg"
+              quantity: 1
+              metric: ""
+            - name: "Seed oil"
+              quantity: 120
+              metric: "ml"
+            - name: "Sugar"
+              quantity: 100
+              metric: "gr"
+            - name: "Vanilla"
+              quantity: 10
+              metric: "gr"
+            - name: "Flour or oat flour"
+              quantity: 220
+              metric: "gr"
+            - name: "Baking Powder"
+              quantity: 10
+              metric: "gr"
+          executionSteps:
+            - "With a wire, we blend the egg, the sugar and the seed oil."
+            - "In a bowl, we mix the flour with the vanilla and the baking powder."
+            - "We include slowly the mixture of the flour so that we will have a soft dough."
+        - summary: "Baking"
+          executionTime: 15
+          executionSteps:
+            - "We preheat the oven to 220 degrees."
+            - "We shape the dough in small balls and press them in the middle so that they get the shape of a biscuit."
+            - "We put them in oil paste."
+            - "We pour some sugar on top of them."
+            - "We bake for about 12-15 minutes until they get a nice colour."
