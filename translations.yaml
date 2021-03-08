@@ -15,10 +15,14 @@ el:
     order: 1
     language: "Ελληνικά"
     categories:
+      Dough:      "Ζύμη"
       MincedMeat: "Κιμάς"
       Pasta:      "Μακαρόνια"
       Sweets:     "Γλυκά"
     recipes:
+      # Dough
+      PizzaDoughWithoutYeast: "Ζύμη για πίτσα χωρίς μαγιά"
+
       # Minched meat
       MinchedMeatballs: "Κεφτεδάκια"
 
@@ -46,10 +50,14 @@ en:
     order: 2
     language: "English"
     categories:
+      Dough:      "Dough"
       MincedMeat: "Minced meat"
       Pasta:      "Pasta"
       Sweets:     "Sweets"
     recipes:
+      # Dough
+      PizzaDoughWithoutYeast: "Pizza dough without yeast"
+    
       # Minched meat
       MinchedMeatballs: "Minched meatballs"
       

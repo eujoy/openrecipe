@@ -1,14 +1,14 @@
 ## Ελληνικά
 
-#### 
-
-* [](recipes/Dough/el/PizzaDough.md)
-
 #### Γλυκά
 
 * [Εύκολα μπισκότα](recipes/Sweets/el/EasyBiscuits.md)
 
 * [Κουλουράκια](recipes/Sweets/el/Cookies.md)
+
+#### Ζύμη
+
+* [Ζύμη για πίτσα χωρίς μαγιά](recipes/Dough/el/PizzaDoughWithoutYeast.md)
 
 #### Κιμάς
 
@@ -22,9 +22,9 @@
 
 ## English
 
-#### 
+#### Dough
 
-* [](recipes/Dough/en/PizzaDough.md)
+* [Pizza dough without yeast](recipes/Dough/en/PizzaDoughWithoutYeast.md)
 
 #### Minced meat
 

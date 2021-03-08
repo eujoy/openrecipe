@@ -7,12 +7,12 @@ recipe:
     bakingTime: 20
   details:
     - lang: "el"
-      title: "Ζύμη πίτσας χωρίς μαγιά"
+      title: "Ζύμη για πίτσα χωρίς μαγιά"
       recipeParts:
         - summary: "Προετοιμασία μείγματος"
           executionTime: 15
           ingredients:
-            - name: "Αυγό"
+            - name: "Αυγά"
               quantity: 3
               metric: ""
             - name: "Αλεύρι"
@@ -64,25 +64,25 @@ recipe:
               metric: "gr"
             - name: "Vinegar"
               quantity: 5
-              metric: "μλ"
+              metric: "ml"
             - name: "Salt"
               quantity: 10
-              metric: "γρ"
+              metric: "gr"
             - name: "Pepper"
               quantity: 10
-              metric: "γρ"
+              metric: "gr"
             - name: "Sugar"
               quantity: 5
-              metric: "γρ"
+              metric: "gr"
             - name: "Baking Powder"
               quantity: 10
               metric: "gr"
             - name: "Olive oil"
               quantity: 25
-              metric: "μλ"
+              metric: "ml"
             - name: "Milk"
               quantity: 50
-              metric: "μλ"
+              metric: "ml"
           executionSteps:
             - "In a bowl we mix the flour, bakin powder, salt, pepper and suggar."
             - "We blend them for a few seconds so that all of the ingredients get mixed together."
