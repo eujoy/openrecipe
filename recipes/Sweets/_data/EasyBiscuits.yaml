@@ -73,7 +73,7 @@ recipe:
         - summary: "Baking"
           executionTime: 15
           executionSteps:
-            - "We preheat the oven to 220 degrees."
+            - "We preheat the oven to 200 degrees."
             - "We shape the dough in small balls and press them in the middle so that they get the shape of a biscuit."
             - "We put them in oil paste."
             - "We pour some sugar on top of them."

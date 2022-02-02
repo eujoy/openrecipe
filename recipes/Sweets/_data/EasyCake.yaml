@@ -1,0 +1,68 @@
+recipe:
+  summary:
+    forPersons: 0
+    pieces: 1
+    difficulty: 1
+    executionTime: 10
+    bakingTime: 45
+  details:
+    - lang: "el"
+      title: "Εύκολο κέικ"
+      recipeParts:
+        - summary: "Προετοιμασία μείγματος"
+          executionTime: 10
+          ingredients:
+            - name: "Βούτηρο"
+              quantity: 500
+              metric: "γρ"
+            - name: "Ζάχαρη (λευκή ή καστανή)"
+              quantity: 500
+              metric: "γρ"
+            - name: "Αυγά"
+              quantity: 10
+              metric: ""
+            - name: "Αλεύρι"
+              quantity: 500
+              metric: "γρ"
+            - name: "Βανίλια"
+              quantity: 10
+              metric: "γρ"
+          executionSteps:
+            - "Σε ένα μπωλ χτυπάμε με ένα μίξερ το βούτηρο με την ζάχαρη, μέχρι να ομογενοποιηθούν σε ένα αφράτο μείγμα."
+            - "Προσθέτουμε ένα-ένα τα αυγά και ανακατεύουμε συνέχεια."
+            - "Προσθέτουμε το αλεύρι και την βανίλια και ανακατεύουμε απαλά το μείγμα με μία σπάτουλα."
+        - summary: "Ψήσιμο"
+          executionTime: 45
+          executionSteps:
+            - "Προθερμαίνουμε τον φούρνο στους 180 βαθμούς."
+            - "Ψήνουμε για 45-50 λέπτα μέχρι να πάρει ένα ωραίο χρώμα και ελέγχουμε με ένα μαχαιρι εάν έχει ψηθει από μέσα."
+    - lang: "en"
+      title: "Easy cake"
+      recipeParts:
+        - summary: "Preparation of the mixture"
+          executionTime: 10
+          ingredients:
+            - name: "Butter"
+              quantity: 500
+              metric: "gr"
+            - name: "Sugar (white or brown)"
+              quantity: 500
+              metric: "gr"
+            - name: "Eggs"
+              quantity: 10
+              metric: ""
+            - name: "Flour"
+              quantity: 500
+              metric: "gr"
+            - name: "Vanilla"
+              quantity: 10
+              metric: "gr"
+          executionSteps:
+            - "In a bowl, we blend the butter and the suggar with a mixer till we get a fluffy mixture."
+            - "We add the eggs one by one and we keep on blending the mixture."
+            - "We add the flour and the vanilla and we keep blending the mixture soflty with a silicon spatula."
+        - summary: "Baking"
+          executionTime: 45
+          executionSteps:
+            - "We preheat the oven to 180 degrees."
+            - "We leave the cake to be baked for about 45-50 minutes. While reaching that time, we need to check constantly with a knife if it has been baked from the inside."
