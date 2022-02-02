@@ -4,6 +4,8 @@
 
 * [Εύκολα μπισκότα](recipes/Sweets/el/EasyBiscuits.md)
 
+* [Εύκολο κέικ](recipes/Sweets/el/EasyCake.md)
+
 * [Κουλουράκια](recipes/Sweets/el/Cookies.md)
 
 #### Ζύμη
@@ -39,6 +41,8 @@
 * [Cookies](recipes/Sweets/en/Cookies.md)
 
 * [Easy biscuits](recipes/Sweets/en/EasyBiscuits.md)
+
+* [Easy cake](recipes/Sweets/en/EasyCake.md)
 
 ----
 

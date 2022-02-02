@@ -32,6 +32,7 @@ el:
       # Sweets
       Cookies: "Κουλουράκια"
       EasyBiscuits: "Εύκολα μπισκότα"
+      EasyCake: "Εύκολο κέικ"
 
 # English translations
 en:
@@ -67,3 +68,4 @@ en:
       # Sweets
       Cookies: "Cookies"
       EasyBiscuits: "Easy biscuits"
+      EasyCake: "Easy cake"
